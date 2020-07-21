@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pictionary</string>
+    <string name="start_game">START GAME</string>
+    <string name="submit">SUBMIT</string>
+    <string name="answer">ANSWER</string>
+    <string name ="round">Round</string>
+    <string name ="five">/5</string>
+    <string name ="lose">You lose, Your score is</string>
+    <string name ="win">You won, Your score is</string>
+
+</resources>
